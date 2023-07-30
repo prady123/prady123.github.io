@@ -1,11 +1,9 @@
 title: Pradyumna Elavarthi # your name (or website title) here
 logo: "/images/IMG_7494.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Ph.D candidate. in Deep Learning specializing in Computer Vision and NLP. Expertise in advanced model development for vision and language tasks and fine-tuning LLMs for specialist tasks. Strong knowledge of CNNs, RNNs, and transformers. Experienced in image processing, object detection, sentiment analysis, and language modeling. Proficient in Python, TensorFlow, PyTorch, and Keras. Published researcher with a passion for pushing AI boundaries. 
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/pra-ela/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
